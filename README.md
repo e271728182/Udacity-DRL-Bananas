@@ -29,5 +29,5 @@ the 4 files below are used to build & train the models and have dependencies fro
 Everything is self contained in the DRL Udacity Bananas.ipynb notebook. Simply run every cell and the *dqn* function will create a trained model as an ouput in the directory. Simply change the name of the output file in the *dqn* function to save a new copy
 
 ### How to set up the dependencies
-
-
+Detailed instructions are available on Alexis Cook's DRL repository
+https://github.com/udacity/deep-reinforcement-learning/blob/master/README.md
